@@ -1,7 +1,10 @@
+<div align="center">
+  <br/>
 <div class="display: flex; align-items:center; justify-content:center;">
-              <img src="https://github.com/BishoyLabib7/worldwise/blob/main/public/logo.png" style="height: 60px; width: 300px;" /> <h1 style="font-size: 70px;"> The WorldWise </h1>
+              <img src="https://github.com/BishoyLabib7/worldwise/blob/main/public/logo.png" style="height: 60px; width: 300px;" /> <h1 style="font-size: 70px;"> The WorldWise</h1>
 </div>
   <br/>
+ </div>
 
 <div align="center">
 <img src="https://img.shields.io/npm/v/npm.svg?logo=npm"/>
