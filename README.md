@@ -1,5 +1,5 @@
 <div class="display: flex; align-items:center; justify-content:center; width:20px;">
-              <img src="https://github.com/BishoyLabib7/worldwise/blob/main/public/icon.png" style="height: 60px; width: 100px;" /><h1 align="center">🌐 The World Wise 🌐 </h1>
+              <img src="https://github.com/BishoyLabib7/worldwise/blob/main/public/icon.png" style="height: 60px; width: 100px;" /><span align="center">The World Wise</span>
 </div>
 <br/>
 
