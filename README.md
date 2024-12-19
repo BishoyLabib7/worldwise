@@ -1,4 +1,7 @@
-<h1 align="center">🌐 The World Wise 🌐 </h1>
+<div class="display: flex; align-items:center; justify-content:center;">
+              <img src="https://github.com/BishoyLabib7/worldwise/blob/main/public/icon.png" style="height: 60px; width: 300px;" /><h1 align="center">🌐 The World Wise 🌐 </h1>
+</div>
+<br/>
 
 <div align="center">
 <img src="https://img.shields.io/npm/v/npm.svg?logo=npm"/>
