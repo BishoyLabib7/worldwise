@@ -37,6 +37,8 @@
    - Secure authentication using Next-Auth, supporting credential authentication and registration for users.
 <br/>
 
+https://github.com/user-attachments/assets/ffb41add-8347-4e5b-9087-a249b92ef14b
+
 ## Screenshot
 
 ![Home page](https://github.com/BishoyLabib7/worldwise/blob/main/public/homepage.png)
@@ -51,18 +53,28 @@
 
 ## Usage
 
-- Install the dependencies:
+1. **Clone the repository**
+    ```
+    git clone https://github.com/BishoyLabib7/worldwise
+    ```
+2. **Navigate to the project directory**
+    ```
+    cd worldwise
+    ```
+3. **Install dependencies**
+    ```
+    npm i
+    ```
+4. **Start the development server**
+    ```
+    npm run dev
+    ```
+5. **Start the Fake Server**
+    ```
+    npm run server
+    ```
 
-  ```bash
-  npm install
-  ```
-- Start the development server:
-
-  ```bash
-  npm run dev
-  ```
-
-- Open your browser and visit `http://localhost:3000` to access the application.
+- Open your browser and visit `http://localhost:5173` to access the application.
 
 <br/>
 
