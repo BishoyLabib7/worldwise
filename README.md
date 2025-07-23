@@ -37,8 +37,6 @@
    - Secure authentication using Next-Auth, supporting credential authentication and registration for users.
 <br/>
 
-https://github.com/user-attachments/assets/ffb41add-8347-4e5b-9087-a249b92ef14b
-
 ## Screenshot
 
 ![Home page](https://github.com/BishoyLabib7/worldwise/blob/main/public/homepage.png)
@@ -74,7 +72,7 @@ https://github.com/user-attachments/assets/ffb41add-8347-4e5b-9087-a249b92ef14b
     npm run server
     ```
 
-- Open your browser and visit `http://localhost:5173` to access the application.
+- Open your browser and visit `http://localhost:3000` to access the application.
 
 <br/>
 
